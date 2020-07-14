@@ -6,8 +6,7 @@ body {
 }
 
 #header-nav {
-	background-color: #12BB98;
-	
+  background-color: #12BB98;	
 }
 
 .navbar-header {
@@ -18,9 +17,9 @@ body {
 }
 
 .navbar-brand {
-	text-align: left;
-
+   text-align: left;
 }
+
 #main-content {
 	
 	color: black;
@@ -50,10 +49,12 @@ body {
 
 }
 
-
 section {
 	background-color: #BA3265;
+}
 
+section p a {
+	color: #01ff77;
 }
 
 button {
