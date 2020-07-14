@@ -56,11 +56,3 @@ section {
 section p a {
 	color: #01ff77;
 }
-
-button {
-	margin: 1px solid black;
-}
-
-#collapsable-nav {
-	color: red;
-}
