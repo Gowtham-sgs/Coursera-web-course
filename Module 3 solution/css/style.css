@@ -1,0 +1,54 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+  background-color: orange;
+}
+
+.navbar-header {
+  border-radius: 0;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand {
+	text-align: left;
+
+}
+#main-content {
+	background-color: orange;
+	color: black;
+}
+
+.navbar-brand h1 { 
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-brand p span { 
+  vertical-align: middle;
+}
+
+#nav-list {
+	background-color: yellow;
+}
+
+
+section {
+	background-color: grey;
+}
+
+button {
+	margin: 1px solid black;
+}
